@@ -1,9 +1,6 @@
 Technologies Used
 
-React
-TypeScript
-Tailwind CSS
-OpenAI API integration
+React, TypeScript, Tailwind CSS, OpenAI API integration
 
 Installation
 
